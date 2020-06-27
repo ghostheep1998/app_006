@@ -1,0 +1,41 @@
+#注释符号
+
+#name: "yy"
+#Name: "xx"
+
+#info: {"name":"lili","age":"18"}
+
+#info2:
+#  name: "lili"
+#  age: "18"
+
+#data:
+#  - "lili"
+#  - "女"
+
+#data1: ["nana","男"]
+
+#info2:
+#  name: "lili"
+#  age: "18"
+
+#name: "yy"
+##Name: "xx"
+##name_str: lili
+
+#value: ~
+value1: ~
+
+#date1: 2020-11-11 11:11:11
+#date2: 2020-11-11
+#date3: 11:11:11
+#date4: 2020-11-11 01:01:01
+#date5: 2020-01-01
+#value2 :"11"
+#info: &data
+#  name: "lili"
+#  phone: "158016011622"
+#
+#address:
+#  <<: *data
+#  detail: "黑马程序员"
